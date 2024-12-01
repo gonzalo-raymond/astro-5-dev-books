@@ -7,6 +7,7 @@ description: Domina TypeScript de 0 a experto
 buy:
   spain: https://amzn.to/3zlkdes
   usa: https://www.amazon.com/-/es/Josh-Goldberg/dp/1098110331
+  uruguay: https://www.amazon.com/-/uy/Josh-Goldberg/dp/1098110331
 ---
 
 TypeScript has conquered the world of JavaScript: it is one of the world's fastest growing and most popular languages across developer surveys, widely used in consumer and business companies alike, and frequently credited for helping massive web applications scale. But what is TypeScript?
